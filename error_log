@@ -1,0 +1,22 @@
+[27-Nov-2021 12:08:14 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 131
+[27-Nov-2021 12:08:14 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 140
+[27-Nov-2021 12:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/oranga.in/register.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 155
+[27-Nov-2021 12:09:16 UTC] PHP Warning:  include(include/database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 1
+[27-Nov-2021 12:09:16 UTC] PHP Warning:  include(): Failed opening 'include/database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 1
+[27-Nov-2021 12:09:16 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 132
+[27-Nov-2021 12:09:16 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 141
+[27-Nov-2021 12:09:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/oranga.in/register.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 156
+[27-Nov-2021 12:09:18 UTC] PHP Warning:  include(include/database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 1
+[27-Nov-2021 12:09:18 UTC] PHP Warning:  include(): Failed opening 'include/database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 1
+[27-Nov-2021 12:09:18 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 132
+[27-Nov-2021 12:09:18 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 141
+[27-Nov-2021 12:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/oranga.in/register.php:156
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/oranga.in/register.php on line 156
